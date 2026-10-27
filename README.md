@@ -1,45 +1,65 @@
-# Customer Churn Prediction
+# Customer Churn Prediction | Excel, SQL & Machine Learning
 
-## Project Overview
+## 📌 Project Overview
 
-This project uses machine learning to analyze customer behavior and predict which customers may be at risk of leaving a service.
+This project focuses on analyzing customer behavior and predicting customer churn using an end-to-end data analytics and machine learning workflow.
 
-## Objectives
+The process begins with selecting relevant columns in Excel, combining data from multiple tables using SQL JOINs, and building a machine learning model in Python to identify customers who may be at risk of leaving.
 
-* Analyze customer behavior and engagement.
-* Identify patterns associated with customer churn.
-* Build and evaluate machine learning classification models.
-* Generate insights to support customer retention strategies.
+## 🛠️ Technologies Used
 
-## Technologies Used
+* **Excel:** Data inspection and column selection
+* **SQL:** Data extraction, table joins, and dataset creation
+* **Python:** Data analysis and preprocessing
+* **Pandas & NumPy:** Data manipulation
+* **Matplotlib & Seaborn:** Data visualization
+* **Scikit-learn:** Machine learning and model evaluation
+* **XGBoost:** Gradient boosting, if used in the notebook
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* XGBoost
+## 🔄 Project Workflow
 
-## Project Workflow
+1. **Data Preparation in Excel**
 
-1. Data loading and exploratory data analysis.
-2. Data cleaning and preprocessing.
-3. Feature engineering and model training.
-4. Model evaluation.
-5. Business insights and customer retention recommendations.
+   * Reviewed the available data.
+   * Selected relevant columns for analysis.
 
-## Repository Contents
+2. **Dataset Creation Using SQL**
 
-* `Customer churn prediction.ipynb` — Jupyter Notebook containing the analysis and model development.
+   * Combined data from multiple tables using SQL JOINs.
+   * Prepared the dataset for further analysis.
 
-## How to Run
+3. **Exploratory Data Analysis**
 
-1. Install Python and Jupyter Notebook.
-2. Install the required libraries.
-3. Download the notebook.
-4. Open it in Jupyter Notebook and run the cells.
+   * Examined customer behavior and churn patterns.
+   * Explored relationships between relevant variables.
 
-## Author
+4. **Data Preprocessing**
 
-Ritisha Atone
+   * Prepared the data for machine learning.
+   * Applied appropriate transformations where required.
+
+5. **Machine Learning**
+
+   * Trained classification models to predict customer churn.
+   * Compared model performance using appropriate evaluation metrics.
+
+6. **Business Insights**
+
+   * Identified customer behavior patterns associated with churn.
+   * Explored potential customer retention strategies.
+
+## 🎯 Project Objective
+
+To demonstrate how Excel, SQL, and Python can be integrated into a practical workflow for customer churn analysis and predictive modeling.
+
+## 📂 Repository Contents
+
+* `Customer churn prediction.ipynb` — Jupyter Notebook containing the Python analysis and model development.
+* `README.md` — Project documentation.
+
+## 👩‍💻 Author
+
+**Ritisha Atone**
+
+Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
+
