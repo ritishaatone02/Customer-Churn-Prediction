@@ -1,12 +1,12 @@
 # Customer Churn Prediction | Excel, SQL & Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing customer behavior and predicting customer churn using an end-to-end data analytics and machine learning workflow.
 
 The process begins with selecting relevant columns in Excel, combining data from multiple tables using SQL JOINs, and building a machine learning model in Python to identify customers who may be at risk of leaving.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Excel:** Data inspection and column selection
 * **SQL:** Data extraction, table joins, and dataset creation
@@ -16,7 +16,7 @@ The process begins with selecting relevant columns in Excel, combining data from
 * **Scikit-learn:** Machine learning and model evaluation
 * **XGBoost:** Gradient boosting, if used in the notebook
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 1. **Data Preparation in Excel**
 
@@ -48,16 +48,16 @@ The process begins with selecting relevant columns in Excel, combining data from
    * Identified customer behavior patterns associated with churn.
    * Explored potential customer retention strategies.
 
-## 🎯 Project Objective
+##  Project Objective
 
 To demonstrate how Excel, SQL, and Python can be integrated into a practical workflow for customer churn analysis and predictive modeling.
 
-## 📂 Repository Contents
+##  Repository Contents
 
 * `Customer churn prediction.ipynb` — Jupyter Notebook containing the Python analysis and model development.
 * `README.md` — Project documentation.
 
-## 👩‍💻 Author
+##  Author
 
 **Ritisha Atone**
 
